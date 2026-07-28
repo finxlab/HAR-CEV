@@ -1,0 +1,26 @@
+# User-supplied data
+dataset_dija/*
+!dataset_dija/README.md
+dataset_rv/*
+!dataset_rv/README.md
+
+# Generated artifacts
+outputs/*
+!outputs/.gitkeep
+checkpoints/
+*.pt
+*.pth
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
