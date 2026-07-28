@@ -1,4 +1,4 @@
-﻿# HAR-CEV
+# HAR-CEV
 
 Official implementation for *HAR-CEV: HAR-Attentive Constant Elasticity of Variance for Zero-Shot Realized Variance Forecasting across Economic Regimes* (under review).
 
@@ -104,4 +104,4 @@ For each valid ticker-regime pair, models train on the preceding 756 trading day
 
 ## License
 
-MIT. See `LICENSE`.
+This project is released under the MIT License. See `LICENSE`.
