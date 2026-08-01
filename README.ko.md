@@ -1,8 +1,10 @@
 # HAR-CEV: 레짐 전환 하에서의 구조적 확률 RV 예측
 
-논문 *"HAR-CEV: HAR-Attentive Constant Elasticity of Variance for
-Zero-Shot Realized Variance Forecasting across Economic Regimes"*
+논문 *"HAR-CEV: Attentive Mean-Reverting Volatility Forecasting under
+Unseen Economic Regimes"*
 (심사 중)의 공개 코드입니다. 영어 버전은 [README.md](README.md)를
+
+**제출 상태:** ICAIF 2026 제출 완료. 이 저장소는 최종 제출된 `main.tex`와 동일한 코드, 실험 프로토콜 및 기본 설정을 제공합니다.
 참고하세요.
 
 HAR-CEV는 조건부 위치(location)와 스케일(scale)이 시변 CEV 확률미분방정식을

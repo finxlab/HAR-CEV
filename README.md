@@ -1,6 +1,8 @@
 # HAR-CEV
 
-Official implementation for *HAR-CEV: HAR-Attentive Constant Elasticity of Variance for Zero-Shot Realized Variance Forecasting across Economic Regimes* (under review).
+Official anonymous implementation for *HAR-CEV: Attentive Mean-Reverting Volatility Forecasting under Unseen Economic Regimes*.
+
+**Submission status:** Submitted to ICAIF 2026. This repository corresponds to the final submitted `main.tex`; the code, experimental protocol, and default configurations match the submitted manuscript.
 
 HAR-CEV combines daily, weekly, and monthly HAR components with a context-dependent CEV transition and a monotone quantile head. The repository contains the proposed Euler model, the fixed-alpha and structural ablations, seven neural/econometric baselines, GARCH-EQ, distribution-shift analysis, evaluation tables, and VaR backtests. Data and trained checkpoints are intentionally excluded.
 
