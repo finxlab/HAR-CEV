@@ -1,6 +1,6 @@
 # HAR-CEV
 
-Official anonymous implementation for *HAR-CEV: Attentive Mean-Reverting Volatility Forecasting under Unseen Economic Regimes*.
+Official anonymous implementation for *HAR-CEV: Probabilistic Volatility Forecasting with Adaptive Mean Reversion under Distribution Shift*.
 
 **Submission status:** Submitted to ICAIF 2026. This repository corresponds to the final submitted `main.tex`; the code, experimental protocol, and default configurations match the submitted manuscript.
 
